@@ -1,6 +1,6 @@
 @echo off
-color 1f
-title Check Health
+color 1
+title SFC System Scan
 
 sfc /scannow
 echo.
